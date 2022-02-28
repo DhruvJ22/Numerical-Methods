@@ -24,12 +24,11 @@ The algorithms are implemented in Jupyter lab by leveraging numpy array. There a
 3. **Numerical interpolation and Curve Fitting** 
     * Lagrange's form of the interpolation polynomial
     * Newton's form of the interpolation polynomial
-    * Composite Trapezoidal Polynomial
 
 4. **Numerical Integration**
-    * Midpoint mehtod
-    * trapezoidal
-    * simpson
+    * Midpoint Rule
+    * Trapezoidal Rule
+    * Simpson's Rule
     * 2pt gauss quadrature
     * 3pt gauss quadrature
     * forward euler

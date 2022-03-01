@@ -29,16 +29,16 @@ The algorithms are implemented in Jupyter lab by leveraging numpy array. There a
     * Midpoint Rule
     * Trapezoidal Rule
     * Simpson's Rule
-    * 2pt gauss quadrature
-    * 3pt gauss quadrature
-    * forward euler
-    * backward euler
-    * Runge-Kutta 2<sup>nd</sup> order
+    * Forward Euler's Method
+    * Backward Euler's Method
     * Runge-Kutta 4<sup>th</sup> order
-
+    * Composite Trapezoidal Rule
+    * 2-Point Gaussian Quadrature Rule
+    * 3-Point Gaussian Quadrature Rule
+   
 5. **Numerical Differentiation**
-    * Forward Difference
-    * Central Difference
+    * Forward Differentiation
+    * Central Differentiation
     * Complex Step Differentiation
 
 5. **Differential Algebraic Equation / Partial Differenital Equation solvers**
@@ -49,6 +49,8 @@ Solve Robin condition for equations of type:
     * Laplace Equation
 
 6. **Numerical Continuation**
+    * Natural Paramter Continuation
+    * Pseudo-arc length continuation 
 
 ## Reference
 * "A Friendly Introduction to Numerical Analysis" by Brian Bradle, 2006.

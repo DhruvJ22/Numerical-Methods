@@ -1,6 +1,6 @@
 # Numerical Methods
     
-This repository consists of various Numerical Methods developed as part of a numerical methods course that I took at Purdue Unviersity, through Astrodynamics research and out of my curiosity to investigate algorithms that can solve non-trivial mathematical problems. 
+This repository consists of various Numerical Methods developed as part of a graduate level numerical methods course that I took at Purdue Unviersity, through my Astrodynamics research and out of my curiosity to investigate algorithms that can solve non-trivial mathematical problems. 
 
 ## Setup
 
@@ -42,15 +42,15 @@ The algorithms are implemented in Jupyter lab by leveraging numpy array. There a
     * Complex Step Differentiation
 
 5. **Differential Algebraic Equation / Partial Differenital Equation solvers**
-Solve Robin condition for equations of type:
     * 1D Heat Equation
     * Advect Eqation
     * Wave Equation
-    * Laplace Equation
+    * Laplace Equation (Contour Plot!)
 
 6. **Numerical Continuation**
     * Natural Paramter Continuation
     * Pseudo-arc length continuation 
+_Checkout my contribution to Poliastro to see the implementation of Numerical Continuation schemes_
 
 ## Reference
 * "A Friendly Introduction to Numerical Analysis" by Brian Bradle, 2006.

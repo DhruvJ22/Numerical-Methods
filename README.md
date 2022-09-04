@@ -1,6 +1,6 @@
 # Numerical Methods
     
-This repository consists of various Numerical Methods algorithm that I wrote as part of a graduate level numerical methods course that I took at Purdue Unviersity, through my Astrodynamics research and out of my curiosity to investigate algorithms that can solve non-trivial mathematical problems. 
+This repository consists of various Numerical Methods algorithms that I wrote as part of a graduate level numerical methods course that I took at Purdue Unviersity, through my Astrodynamics research and out of my curiosity to investigate algorithms that can solve non-trivial mathematical problems. 
 
 ## Setup
 

@@ -4,7 +4,7 @@ This repository consists of various Numerical Methods algorithms that I wrote as
 
 ## Setup
 
-The algorithms are implemented in Jupyter lab by leveraging numpy array. There are 5 files focused on each problem and various method for each problem are implemented. A discussion of the algorithms through examples is included to compare performance and assumptions.  
+The algorithms are implemented in Jupyter lab by leveraging numpy array. There are 6 files focused on each problem and various method for each problem are implemented. A discussion of the algorithms through examples is included to compare performance and assumptions.  
 
 ## List of methods implemented
 
@@ -50,7 +50,8 @@ The algorithms are implemented in Jupyter lab by leveraging numpy array. There a
 6. **Numerical Continuation**
     * Natural Paramter Continuation
     * Pseudo-arc length continuation 
-_Checkout my contribution to Poliastro to see the implementation of Numerical Continuation schemes_
+    
+__Checkout my contribution to Poliastro to see the implementation of Numerical Continuation schemes__
 
 ## Reference
 * "A Friendly Introduction to Numerical Analysis" by Brian Bradle, 2006.

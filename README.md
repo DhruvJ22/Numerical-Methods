@@ -51,7 +51,7 @@ The algorithms are implemented in Jupyter lab by leveraging numpy array. There a
     * Natural Paramter Continuation
     * Pseudo-arc length continuation 
     
-__Checkout my contribution to Poliastro to see the implementation of Numerical Continuation schemes__
+__Checkout my contribution to Poliastro or part of my [research code](https://github.com/DhruvJ22/Astrodynamics_Research) to see the implementation of Numerical Continuation schemes__
 
 ## Reference
 * "A Friendly Introduction to Numerical Analysis" by Brian Bradle, 2006.
